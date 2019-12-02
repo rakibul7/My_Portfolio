@@ -739,8 +739,8 @@ Sincerely, <br>
 							<div  class="project" style="background-image: url(images/img-8.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/Library-Management-in-Java-Shared-Database">Library Management shared database</a></h3>
-										<span><a href="https://github.com/sahidhossain/Library-Management-in-Java-Shared-Database">Java</a></span>
+										<h3><a href="https://github.com/rakibul7/Library-Management-in-Java-Shared-Database">Library Management shared database</a></h3>
+										<span><a href="https://github.com/rakibul7/Library-Management-in-Java-Shared-Database">Java</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
