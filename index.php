@@ -684,8 +684,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-5.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/Advance-Calculator-Android">Calculator </a></h3>
-										<span><a href="https://github.com/sahidhossain/Advance-Calculator-Android">Android</a></span>
+										<h3><a href="https://github.com/rakibul7/Advance-Calculator-Android">Calculator </a></h3>
+										<span><a href="https://github.com/rakibul7/Advance-Calculator-Android">Android</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -699,8 +699,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-6.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/Wish-List-In-Android">WishList</a></h3>
-										<span><a href="https://github.com/sahidhossain/Wish-List-In-Android">Android</a></span>
+										<h3><a href="https://github.com/rakibul7/Wish-List-In-Android">WishList</a></h3>
+										<span><a href="https://github.com/rakibul7/Wish-List-In-Android">Android</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
