@@ -149,7 +149,7 @@ company’s goals and objective</h2>
 										<h1 >  <!-- class="colorlib-heading animate-box" -->Who Am I?</h1>
 										<p style="text-align: justify;">Hello
 										<br> I'm<strong> Md.Rakibul Hasan</strong> From Mohammadpur Dhaka.
-										Son of <strong>Md.Rashidul Alam, Monowara Begum</strong>. Graduated from <strong>Bangladesh University of Business & Technology</strong> in <strong>Computer Science</strong> with a result of <strong>CGPA-3.50</strong>.
+										Son of <strong>Md.Rashidul Alam, Monowara Begum</strong>. Graduated from <strong>Prime University</strong> in <strong>Computer Science</strong> with a result of <strong>CGPA-3.15</strong>.
 										From my childhood i am passionate about new tech & technologies. That's why taken "<strong>computer science</strong>" as my graduation subject, and take "<strong>Software Developing</strong>" as my profession.
 											<br>Just completed the graduation and ready to serve as a Software Engineer.
 Are you searching for a <strong>Web</strong> or <strong>Android</strong> app Developer with a proven ability to develop high-performance applications and technical innovations? If so, please consider my enclosed resume.
@@ -159,7 +159,7 @@ Since 2014, I have worked for many projects in my university life and i have a g
 My experience developing user-friendly solutions on time and on budget would enable me to step into an <strong>Developer</strong> role in a <strong>well reputed Company</strong> and hit the ground running. I look forward to speaking with you. <br>
 Sincerely, <br>
 <strong>Md.Rakibul Hasan<strong> <br>
-<strong>+880-1741795165</strong> <br>
+<strong>+880-1741795165, +880-1953381229</strong> <br>
  <strong>rhp.rakibul7@gmail.com</strong></p>
 									</div>
 								</div>
@@ -459,12 +459,12 @@ Sincerely, <br>
 									    </div>
 									    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 									        <div class="panel-body">
-									            <p>Completd my <strong>B.Sc</strong> graduatin from <strong>Bangladesh University of Business & Technology (BUBT)</strong>.</p>
+									            <p>Completd my <strong>B.Sc</strong> graduatin from <strong>Prime University</strong>.</p>
 													<ul>
 														<li>Major Subject: <strong>Computer Science</strong></li>
-														<li>CGPA: <strong>3.50</strong> out of <strong>4</strong>.</li>
+														<li>CGPA: <strong>3.15</strong> out of <strong>4</strong>.</li>
 														<li>Passing Year: <strong>2019(January)</strong> </li>
-														<li>Duration: <strong>4 years (2015-2019)</strong></li>
+														<li>Duration: <strong>4 years (2014-2018)</strong></li>
 													</ul>
 									        </div>
 									    </div>
