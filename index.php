@@ -607,8 +607,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-2.jpg);">
 								<div class="desc">
 									<div class="con" ><a href="work.html"></a>
-										<h3><a href="https://github.com/sahidhossain/Full-Ecommerce-Site-Using-Laravel" target="blank">Ecommerce website using Laravel with admin controlling system</a></h3>
-										<span><a href="https://github.com/sahidhossain/Full-Ecommerce-Site-Using-Laravel" target="blank">Website</span>
+										<h3><a href="https://github.com/rakibul7/E_commerce_Site" target="blank">Ecommerce website using Laravel with admin controlling system</a></h3>
+										<span><a href="https://github.com/rakibul7/E_commerce_Site" target="blank">Website</span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -669,8 +669,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-4.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/drumpad_1" target="blank">Normal Drumpad</a></h3>
-										<span><a href="https://github.com/sahidhossain/drumpad_1" target="blank">Android</a></span>
+										<h3><a href="https://github.com/rakibul7/drumpad_1" target="blank">Normal Drumpad</a></h3>
+										<span><a href="https://github.com/rakibul7/drumpad_1" target="blank">Android</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
