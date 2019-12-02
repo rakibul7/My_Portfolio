@@ -288,6 +288,7 @@ Sincerely, <br>
 									<li>Have knowledge in OOP concept and its 4 pillars (polymorphism abstraction encapsulation inheritance)</li>
 									<li>Experience of working with Database using <strong>MySQL,SQLITE</strong></li>
 									<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a></li>
+									<li>Strong C/C++ background <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15" target="blank">UVA Problem Solve By Me</a></li>
 									<li>Teamwork, communication and analytical skills. Always lead team in my University</li>
 									<li>Capable of learning new tools and technology very quickly</li>
 									<li>Hardworking, Punctual, Self-motivated</li>
@@ -498,7 +499,7 @@ Sincerely, <br>
 									    </div>
 									    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 									        <div class="panel-body">
-									             <p>Completd my <strong>H.S.C</strong> from <strong>Kushtia Zilla School,Kushtia</strong>.</p>
+									             <p>Completd my <strong>S.S.C</strong> from <strong>Kushtia Zilla School,Kushtia</strong>.</p>
 													<ul>
 														<li>Group: <strong>Science</strong></li>
 														<li>GPA: <strong>4.38</strong> out of <strong>5</strong>.</li>
@@ -621,8 +622,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-3.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/full-Login-And-Registraion-Form-using-PHP-HTML-CSS-Bootstrap" target="blank">Full login and registration system using core PHP</a></h3>
-										<span><a href="https://github.com/sahidhossain/full-Login-And-Registraion-Form-using-PHP-HTML-CSS-Bootstrap" target="blank">Website</a></span>
+										<h3><a href="https://github.com/rakibul7/full-Login-And-Registraion-Form-using-PHP-HTML-CSS-Bootstrap" target="blank">Full login and registration system using core PHP</a></h3>
+										<span><a href="https://github.com/rakibul7/full-Login-And-Registraion-Form-using-PHP-HTML-CSS-Bootstrap" target="blank">Website</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -650,8 +651,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-1.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/Restaurant_Management_System-in-Android" target="blank">Restaurant management system</a></h3>
-										<span><a href="https://github.com/sahidhossain/Restaurant_Management_System-in-Android" target="blank">Android</a></h3></span>
+										<h3><a href="https://github.com/rakibul7/Restaurant_Management_System-in-Android" target="blank">Restaurant management system</a></h3>
+										<span><a href="https://github.com/rakibul7/Restaurant_Management_System-in-Android" target="blank">Android</a></h3></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
