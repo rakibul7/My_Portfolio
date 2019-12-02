@@ -103,7 +103,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						   					<h2>Software Engineer , Problem solver, High degree of initiative & Have faith in Allah.<!--  <a href="https://colorlib.com/" target="_blank">colorlib.com</a> -->
 						   				This is a portfolio website. All of my projects description and links are given in this website.</h2>
 
-						   					<p><a href="https://drive.google.com/open?id=14YRdHKYW-YDRYt7y1EFTMY7EWPvM_8Oi"
+						   					<p><a href="https://drive.google.com/file/d/1nzDKe8AnxVNPUX68PGASFCcPp4q1rRSC/view?usp=sharing"
 						   					target="blank" class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
 											</div>
 					   				</div>
@@ -123,7 +123,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 												<h2>Would like to have an opportunity to develop career in an organization where my conceptual and
 analytical skill can better be utilize and where I shall have to scope to serve company in achieving the
 company’s goals and objective</h2>
-<p><a href="https://drive.google.com/file/d/1XssTyckdL6WyhRAqzO01K9HBNKyVwse8/view" class="btn btn-primary btn-learn" target="blank">View CV <i class="icon-download4"></i></a></p>
+<p><a href="https://drive.google.com/file/d/1nzDKe8AnxVNPUX68PGASFCcPp4q1rRSC/view?usp=sharing" class="btn btn-primary btn-learn" target="blank">View CV <i class="icon-download4"></i></a></p>
 
 
 
