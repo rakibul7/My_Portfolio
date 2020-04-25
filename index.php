@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Rakib's Resume</title>
+	<title>Rakib's Portfolio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -105,7 +105,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 						   					<p><a href="https://drive.google.com/file/d/1nzDKe8AnxVNPUX68PGASFCcPp4q1rRSC/view?usp=sharing"
 						   					target="blank" class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
-											</div>
+										</div>
 					   				</div>
 					   			</div>
 					   		</div>
@@ -288,7 +288,7 @@ Sincerely, <br>
 									<li>Have knowledge in OOP concept and its 4 pillars (polymorphism abstraction encapsulation inheritance)</li>
 									<li>Experience of working with Database using <strong>MySQL,SQLITE</strong></li>
 									<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a></li>
-									<li>Strong C/C++ background <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15" target="blank">UVA Problem Solve By Me</a></li>
+									<li>Strong C/C++ background <a href="https://uhunt.onlinejudge.org/id/761744">UVA Problem Solve By Me</a></li>
 									<li>Teamwork, communication and analytical skills. Always lead team in my University</li>
 									<li>Capable of learning new tools and technology very quickly</li>
 									<li>Hardworking, Punctual, Self-motivated</li>
@@ -429,7 +429,6 @@ Sincerely, <br>
 							</div>
 						</div>
 					
-					
 					</div>
 				</div>
 			</section>
@@ -437,9 +436,9 @@ Sincerely, <br>
 			<section class="colorlib-education" data-section="education">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-4 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-5 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Education</span>
-							<h1 >Academic Qualification</h1>
+							<h1>Academic Qualification</h1>
 						</div>
 					</div>
 					<div class="row">
@@ -546,7 +545,46 @@ Sincerely, <br>
 									        </div>
 									    </div>
 									</div>
+									
+									
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingSiX">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSiX" aria-expanded="false" aria-controls="collapseSiX">Other Completed Course
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseSiX" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSiX">
+									        <div class="panel-body">
+									               <p>Completd my <strong>Other Course's</strong> from <strong>Online</strong>.</p>
+													<ul>
+														<li>Group: <strong>Science</strong></li>
+														<li>Strong C/C++ background <a href="https://uhunt.onlinejudge.org/id/761744">UVA Problem Solve By Me</a></li>
+														<li>Strong C/C++ background <a href="https://uhunt.onlinejudge.org/id/761744">UVA Problem Solve By Me</a></li>
+														<li>Strong C/C++ background <a href="https://uhunt.onlinejudge.org/id/761744">UVA Problem Solve By Me</a></li>
+														<li>GPA: <strong>3.50</strong> out of <strong>5</strong>.</li>
+														<li>Passing Year: <strong>2014</strong> </li>
+														<li>Duration: <strong>2 years (2012-2014)</strong></li>
+														<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a> </li>
+														<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a></li>
+														<li>GPA: <strong>3.50</strong> out of <strong>5</strong>.</li>
+														<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a> </li>
+														<li>Strong C/C++ background <a href="https://uhunt.onlinejudge.org/id/761744">UVA Problem Solve By Me</a></li>
+														<li>GPA: <strong>3.50</strong> out of <strong>5</strong>.</li>
+														<li>Group: <strong>Science</strong></li>
+														<li>Group: <strong>Science</strong></li>
+														<li>GPA: <strong>3.50</strong> out of <strong>5</strong>.</li>
+														<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a> </li>
+														<li>Strong C/C++ background <a href="https://www.urionlinejudge.com.br/judge/en/profile/57828" target="blank">URI Problem Solve By Me</a></li>
+														<li>GPA: <strong>3.50</strong> out of <strong>5</strong>.</li>
+														<li>Passing Year: <strong>2014</strong> </li>
+														<li>Duration: <strong>2 years (2012-2014)</strong></li>
+													</ul>
+									        </div>
+									    </div>
+									</div>
 
+									
 								
 								</div>
 							</div>
