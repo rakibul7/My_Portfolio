@@ -415,6 +415,21 @@ Sincerely, <br>
 								</div>
 							</div>
 						</div>
+					
+					
+					        <div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Python</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="70" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+					
+					
 					</div>
 				</div>
 			</section>
