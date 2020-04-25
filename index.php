@@ -421,8 +421,8 @@ Sincerely, <br>
 							<div class="progress-wrap">
 								<h3>Python</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
-								  	aria-valuemin="0" aria-valuemax="70" style="width:70%">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="60" style="width:60%">
 								    <span>70%</span>
 								  	</div>
 								</div>
@@ -437,7 +437,7 @@ Sincerely, <br>
 			<section class="colorlib-education" data-section="education">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-4 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">Education</span>
 							<h1 >Academic Qualification</h1>
 						</div>
@@ -449,7 +449,7 @@ Sincerely, <br>
 							<!-- 		<div class="panel panel-default">
 									    <div class="panel-heading" role="tab" id="headingOne">
 									        <h4 class="panel-title">
-									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Graduation In Computer Science
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Post Graduation In Computer Science
 									            </a>
 									        </h4>
 									    </div>
@@ -466,14 +466,35 @@ Sincerely, <br>
 									         </div>
 									    </div>
 									</div> -->
+									
 									<div class="panel panel-default">
 									    <div class="panel-heading" role="tab" id="headingTwo">
 									        <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor Degree of Computer Science
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Master Degree of Computer Science
 									            </a>
 									        </h4>
 									    </div>
 									    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+									        <div class="panel-body">
+									            <p>Completd my <strong>M.Sc</strong> post graduatin from <strong>Islamic University</strong>.</p>
+													<ul>
+														<li>Major Subject: <strong>Computer Science</strong></li>
+														<li>CGPA: <strong>3.15</strong> out of <strong>4</strong>.</li>
+														<li>Passing Year: <strong>2020(January)</strong> </li>
+														<li>Duration: <strong>1 years (2019-2020)</strong></li>
+													</ul>
+									        </div>
+									    </div>
+									</div>
+									
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingThree">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Bachelor Degree of Computer Science
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 									        <div class="panel-body">
 									            <p>Completd my <strong>B.Sc</strong> graduatin from <strong>Prime University</strong>.</p>
 													<ul>
@@ -485,14 +506,15 @@ Sincerely, <br>
 									        </div>
 									    </div>
 									</div>
+									
 									<div class="panel panel-default">
-									    <div class="panel-heading" role="tab" id="headingThree">
+									    <div class="panel-heading" role="tab" id="headingFour">
 									        <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Higher Secondary Certificate
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Higher Secondary Certificate
 									            </a>
 									        </h4>
 									    </div>
-									    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+									    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 									        <div class="panel-body">
 									               <p>Completd my <strong>H.S.C</strong> from <strong>Kushtia Government College</strong>.</p>
 													<ul>
@@ -506,13 +528,13 @@ Sincerely, <br>
 									</div>
 
 									<div class="panel panel-default">
-									    <div class="panel-heading" role="tab" id="headingFour">
+									    <div class="panel-heading" role="tab" id="headingFive">
 									        <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Secondary School Certificate
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">Secondary School Certificate
 									            </a>
 									        </h4>
 									    </div>
-									    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+									    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
 									        <div class="panel-body">
 									             <p>Completd my <strong>S.S.C</strong> from <strong>Kushtia Zilla School,Kushtia</strong>.</p>
 													<ul>
