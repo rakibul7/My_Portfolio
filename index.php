@@ -437,7 +437,7 @@ Sincerely, <br>
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-5 animate-box" data-animate-effect="fadeInLeft">
-							<span class="heading-meta">Education</span>
+							<span class="heading-meta"><li>Education</li></span>
 							<h1>Academic Qualification</h1>
 						</div>
 					</div>
@@ -759,8 +759,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-5.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/rakibul7/Advance-Calculator-Android">Calculator </a></h3>
-										<span><a href="https://github.com/rakibul7/Advance-Calculator-Android">Android</a></span>
+										<h3><a href="https://github.com/rakibul7/Advance-Calculator-Android" target="blank">Calculator </a></h3>
+										<span><a href="https://github.com/rakibul7/Advance-Calculator-Android" target="blank">Android</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -774,8 +774,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-6.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/rakibul7/Wish-List-In-Android">WishList</a></h3>
-										<span><a href="https://github.com/rakibul7/Wish-List-In-Android">Android</a></span>
+										<h3><a href="https://github.com/rakibul7/Wish-List-In-Android" target="blank">WishList</a></h3>
+										<span><a href="https://github.com/rakibul7/Wish-List-In-Android" target="blank">Android</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -798,8 +798,8 @@ Sincerely, <br>
 							<div class="project" style="background-image: url(images/img-7.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/sahidhossain/Twitter_Sentimental_Analysis_using_Java.git">Twitter Sentimental Analysis</a></h3>
-										<span><a href="https://github.com/sahidhossain/Twitter_Sentimental_Analysis_using_Java.git">Java</a></span>
+										<h3><a href="https://github.com/rakibul7/Twitter_Sentimental_Analysis_using_Java" target="blank">Twitter Sentimental Analysis</a></h3>
+										<span><a href="https://github.com/rakibul7/Twitter_Sentimental_Analysis_using_Java" target="blank">Java</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
@@ -814,8 +814,8 @@ Sincerely, <br>
 							<div  class="project" style="background-image: url(images/img-8.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="https://github.com/rakibul7/Library-Management-in-Java-Shared-Database">Library Management shared database</a></h3>
-										<span><a href="https://github.com/rakibul7/Library-Management-in-Java-Shared-Database">Java</a></span>
+										<h3><a href="https://github.com/rakibul7/Library-Management-in-Java-Shared-Database" target="blank">Library Management shared database</a></h3>
+										<span><a href="https://github.com/rakibul7/Library-Management-in-Java-Shared-Database" target="blank">Java</a></span>
 										<!-- <p class="icon">
 											<span><a href="#"><i class="icon-share3"></i></a></span>
 											<span><a href="#"><i class="icon-eye"></i> 100</a></span>
