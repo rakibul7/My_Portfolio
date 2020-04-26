@@ -437,7 +437,7 @@ Sincerely, <br>
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-5 animate-box" data-animate-effect="fadeInLeft">
-							<span class="heading-meta"><li>Education</li></span>
+							<span class="heading-meta">Education</span>
 							<h1>Academic Qualification</h1>
 						</div>
 					</div>
